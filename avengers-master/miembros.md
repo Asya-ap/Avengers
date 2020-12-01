@@ -2,12 +2,13 @@
 
 * Black panther
 * Black Widow
-* Capitán America
+* Hulk
+
 * Capitán Marvel
 * Falcon
 * Hank Pym
 * Hawkeye
-* Hulk
+
 * Iron Man
 * Luke Cage
 * QuickSilver
