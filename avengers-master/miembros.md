@@ -2,6 +2,7 @@
 
 * Black panther
 * Black Widow
+* Hulk
 
 * Capitán Marvel
 * Falcon
